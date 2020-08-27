@@ -1,0 +1,9 @@
+name: BlockHunt
+version: 1.0.0
+description: A horrible coded Block Hunt plugin, use with caution.
+api-version: 1.15
+load: POSTWORLD
+depend:
+  - LibsDisguises
+main: me.tsblock.BlockHunt.BlockHuntPlugin
+commands:
