@@ -1,4 +1,4 @@
-package me.tsblock.BlockHunt;
+package dev.tsblock.BlockHunt;
 
 import org.bukkit.Bukkit;
 import org.bukkit.Location;

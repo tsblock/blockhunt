@@ -1,4 +1,4 @@
-package me.tsblock.BlockHunt;
+package dev.tsblock.BlockHunt;
 
 import me.libraryaddict.disguise.DisguiseAPI;
 import me.libraryaddict.disguise.disguisetypes.DisguiseType;

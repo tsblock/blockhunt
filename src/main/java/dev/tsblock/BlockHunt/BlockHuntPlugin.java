@@ -1,7 +1,7 @@
-package me.tsblock.BlockHunt;
+package dev.tsblock.BlockHunt;
 
-import me.tsblock.BlockHunt.Arena.ArenaConfig;
-import me.tsblock.BlockHunt.Commands.CommandManager;
+import dev.tsblock.BlockHunt.Arena.ArenaConfig;
+import dev.tsblock.BlockHunt.Commands.CommandManager;
 import org.bukkit.plugin.java.JavaPlugin;
 
 public class BlockHuntPlugin extends JavaPlugin {

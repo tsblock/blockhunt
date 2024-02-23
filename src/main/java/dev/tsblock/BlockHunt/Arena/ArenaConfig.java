@@ -1,4 +1,4 @@
-package me.tsblock.BlockHunt.Arena;
+package dev.tsblock.BlockHunt.Arena;
 
 import org.bukkit.Bukkit;
 import org.bukkit.configuration.file.FileConfiguration;

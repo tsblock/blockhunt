@@ -1,4 +1,4 @@
-package me.tsblock.BlockHunt.Listeners;
+package dev.tsblock.BlockHunt.Listeners;
 
 import org.bukkit.event.Listener;
 

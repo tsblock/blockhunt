@@ -1,10 +1,8 @@
-package me.tsblock.BlockHunt;
+package dev.tsblock.BlockHunt;
 
-import javafx.scene.paint.Material;
 import lombok.Getter;
 import lombok.Setter;
-
-import java.util.UUID;
+import org.bukkit.Material;
 
 public class PlayerData {
     @Getter @Setter

@@ -1,9 +1,9 @@
-package me.tsblock.BlockHunt.Arena;
+package dev.tsblock.BlockHunt.Arena;
 
+import dev.tsblock.BlockHunt.GameState;
+import dev.tsblock.BlockHunt.PlayerData;
 import lombok.Getter;
 import lombok.Setter;
-import me.tsblock.BlockHunt.GameState;
-import me.tsblock.BlockHunt.PlayerData;
 import org.bukkit.Location;
 import org.bukkit.Material;
 

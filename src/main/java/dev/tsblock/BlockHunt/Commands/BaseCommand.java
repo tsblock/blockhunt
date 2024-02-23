@@ -1,6 +1,5 @@
-package me.tsblock.BlockHunt.Commands;
+package dev.tsblock.BlockHunt.Commands;
 
-import lombok.Getter;
 import org.bukkit.command.CommandExecutor;
 
 public abstract class BaseCommand {

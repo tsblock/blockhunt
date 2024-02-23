@@ -1,13 +1,12 @@
-package me.tsblock.BlockHunt.Arena;
+package dev.tsblock.BlockHunt.Arena;
 
-import me.tsblock.BlockHunt.LocationYaml;
+import dev.tsblock.BlockHunt.LocationYaml;
 import org.bukkit.Location;
 import org.bukkit.Material;
 import org.bukkit.configuration.file.FileConfiguration;
 
 import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
 import java.util.Set;
 
 public class ArenaManager {

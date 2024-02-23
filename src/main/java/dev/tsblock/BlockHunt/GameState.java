@@ -1,4 +1,4 @@
-package me.tsblock.BlockHunt;
+package dev.tsblock.BlockHunt;
 
 public enum GameState {
     WAITING,
